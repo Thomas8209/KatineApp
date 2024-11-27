@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatineApp", "KatineApp\KatineApp.csproj", "{B779436F-982C-4464-B4C3-D2A57766447D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B779436F-982C-4464-B4C3-D2A57766447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B779436F-982C-4464-B4C3-D2A57766447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B779436F-982C-4464-B4C3-D2A57766447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B779436F-982C-4464-B4C3-D2A57766447D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
